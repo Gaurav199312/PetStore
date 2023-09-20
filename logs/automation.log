@@ -1,0 +1,30 @@
+19:35:17.096 [main] DEBUG api.test.UserTests - debugging.....
+19:35:17.109 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+19:35:20.658 [main] INFO  api.test.UserTests - **********User is created  ***************
+19:35:20.675 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+19:35:22.497 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+19:35:22.501 [main] INFO  api.test.UserTests - ********** Updating User ***************
+22:16:06.624 [main] DEBUG api.test.UserTests - debugging.....
+22:16:06.638 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+22:16:10.203 [main] INFO  api.test.UserTests - **********User is created  ***************
+22:16:10.218 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+22:16:11.881 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+22:16:11.884 [main] INFO  api.test.UserTests - ********** Updating User ***************
+22:16:52.731 [main] DEBUG api.test.UserTests - debugging.....
+22:16:52.747 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+22:16:56.164 [main] INFO  api.test.UserTests - **********User is created  ***************
+22:16:56.177 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+22:16:57.862 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+22:16:57.864 [main] INFO  api.test.UserTests - ********** Updating User ***************
+22:27:11.189 [main] DEBUG api.test.UserTests - debugging.....
+22:27:11.213 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+22:27:14.991 [main] INFO  api.test.UserTests - **********User is created  ***************
+22:27:15.009 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+22:27:16.767 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+22:27:16.770 [main] INFO  api.test.UserTests - ********** Updating User ***************
+23:14:47.279 [main] DEBUG api.test.UserTests - debugging.....
+23:14:47.292 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+23:14:50.944 [main] INFO  api.test.UserTests - **********User is created  ***************
+23:14:50.958 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+23:14:52.551 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+23:14:52.552 [main] INFO  api.test.UserTests - ********** Updating User ***************
